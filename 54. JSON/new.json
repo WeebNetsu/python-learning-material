@@ -1,0 +1,13 @@
+{
+    "first_name": "Mark",
+    "last_name": "Weddington",
+    "age": 39,
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Drawing"
+    ],
+    "employed": false,
+    "projects": null
+}

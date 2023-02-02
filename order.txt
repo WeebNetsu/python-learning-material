@@ -1,0 +1,63 @@
+Video Introdunction [POST EDIT]
+Intro to Python 
+[FILMED] Intsalling & Running your Python code in Windows
+[FILMED] Intsalling & Running your Python code in Linux (Ubuntu)
+[FILMED] Intsalling & Running your Python code in Linux (Arch)
+[FILMED] Intsalling & Running your Python code in Linux (Fedora)
+[FILMED] Intsalling & Running your Python code in Linux (Solus)
+[FILMED] Intsalling & Running your Python code in Mac
+[FILMED] Intsalling & Running your Python code in Android
+Intsalling & Running your Python code in iOS
+[FILMED] Intsalling & Running your Python code in FreeBSD
+[FILMED] Intsalling & Running your Python code in ReactOS
+[SKIPPED] Intsalling & Running your Python code in Haiku (CONSIDER: ChomeOS as 13th install)
+[FILMED] 1. Hello World + 20. Comments + 38. Help and Dir
+[FILMED] 5. Variables + 9. Data Types
+[FILMED] 6. User input [variables, data types]
+[FILMED] 4. String Functions [variables] + 44. Checking strings [variables]
+[FILMED] 46. Formatting Strings + 37. The power of quotation marks and r + 41. Format [variables]
+[FILMED] 2. Math Opperations
+[FILMED] 12. Math Functions [Math] + 42. Fractions [variables, math]
+[FILMED] 8. If statements [variables] + 22. None [Variables, If]
+[FILMED] 13. lists [variables]
+[FILMED] 15. List functions [lists, variables, if, math]
+[FILMED] 30. Tuples [Variables, lists, if]
+[FILMED] 17. Range [list, variables]
+[FILMED] 57. Random Numbers [lists]
+[FILMED] 29. assertion [if, math]
+[FILMED] 14. for loops [range, lists, variables, math]
+[FILMED] 11. While loop [variables, math, if]
+[FILMED] 15. List Comprehensions [list, if, for, variables]
+[FILMED] 18. Dictionaries [variables, list, if, for]
+[FILMED] 35. sets [lists, dictionary, variables, for, if]
+[FILMED] 16. Functions [variables, math, if] + 63. Giving functions documentation
+[FILMED] 51. Higher-Order Functions [functions, variables, math]
+[FILMED] 52. Lambda [variables, math, functions, lists]
+[FILMED] 21. Error Catching (Try&Except) [if, variables, assertion, math]
+[FILMED] 55. OS Module [error handling, variables, for]
+[FILMED] 60. Generators [functions, variables, for, while, comprehensions]
+[FILMED] 48. Itertools [variables, list, math, functions, for, if]
+[FILMED] 23. Reading from files [variables, if, for]
+[FILMED] 25. Writing to a file [variables]
+[FILMED] 24. Modules [for, math] + 26. Custom Modules [modules]
+27. User installable modules
+33. if __name__ == __main__ [modules, if]
+27. OOP [variables, functions, if]
+28. OOP Inheritance [OOP]
+47. Collections [variables, list, dictionary, tuple, OOP]
+59. Decorators [functions, for, OOP]
+69. Commandline Arguments & Argparse [if statements, variables]
+54. JSON [variables, dictionaries, writing files, reading files, OOP, if, functions]
+56. Regex (Regular Expressions) [variables, if, for]
+66. Asterix (%2a) in Python [functions, for, variables, lists, dictionaries]
+40. chr [for]
+39. Working with other bases [variables]
+31. timeit [variables, lists]
+53. Logging [variables, error catching, for]
+65. Encryption & Decryption [reading files, writing files, variables, modules]
+61. Threading + 34. Threading [variables, functions, lists]
+62. Multiprocessing [functions, variables, for, __main__, lists, while]
+68. Asynchronous Programming (async/await) [functions, variables, threading (optional), for]
+67. Socket Programming [functions, variables, if, while, threading]
+45. PIL [variables, modules, tuples]
+49. Working with Databases [modules, variables]

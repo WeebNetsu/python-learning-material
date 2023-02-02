@@ -1,0 +1,18 @@
+{
+    "first_name": "Jack",
+    "last_name": "Jackson",
+    "age": 19,
+    "skills": ["C++", "Python"],
+    "employed": true,
+    "projects": [
+        {
+            "project_name": "JSON reader",
+            "language": "C++"
+        },
+
+        {
+            "project_name": "Basic Movie Player",
+            "language": "Python"
+        }
+    ]
+}
